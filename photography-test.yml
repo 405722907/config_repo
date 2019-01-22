@@ -4,9 +4,9 @@ spring:
     name: photography
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    username: root
-    password: 721815
-    url: jdbc:mysql://111.230.46.217:3306/photography?useUnicode=true&characterEncoding=UTF-8&useSSL=false
+    username: 
+    password: 
+    url: /photography?useUnicode=true&characterEncoding=UTF-8&useSSL=false
 eureka:
   client:
     service-url:
